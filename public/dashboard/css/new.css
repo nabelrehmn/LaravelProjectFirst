@@ -1,0 +1,38 @@
+#productcategory{
+    position: relative;
+}
+
+.P_Category ul li{
+    display: none;
+}
+
+#topbar{
+    height: 2rem !important;
+}
+
+#nav-item{
+    display:flex;
+    align-items:center;
+    width: 8rem !important;
+}
+
+#userDropdown{
+    height: 0 !important;
+}
+
+.img-profile{
+    height: 1.5rem !important;
+    width: 2rem !important;
+}
+
+#topbar-divider{
+    border: 0;
+}
+
+#text-color{
+    color: #fff !important;
+}
+
+.nav-link{
+    font-weight: lighter !important;
+}
